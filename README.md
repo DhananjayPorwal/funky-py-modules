@@ -13,3 +13,18 @@ pip install pywhatkey
 5. Add your module to README.md .
 
 > 💡 Refer pywhatkit folder for reference.
+
+## Contributer
+
+<table>
+  
+  <td align="center"><a href="https://github.com/DhananjayPorwal"><img src="https://avatars.githubusercontent.com/u/51775507?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dhananjay Porwal</b></sub></a><br /></td>
+  
+  <td align="center"><a href="https://github.com/torvalds"><img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="100px;" alt=""/><br /><sub><b>Linus Torvalds
+</b></sub></a><br /></td>
+  </tr>
+  
+  </tr>
+  
+  </table>
+
