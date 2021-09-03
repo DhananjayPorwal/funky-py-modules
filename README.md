@@ -1,11 +1,13 @@
 # funky-py-modules
 
-+ [pywhatkey](https://pypi.org/project/pywhatkit/)
+- [pywhatkey](https://pypi.org/project/pywhatkit/)
+
 ```pip
 pip install pywhatkey
 ```
 
 ## How to contribute
+
 1. Create a folder for module.
 2. Create a folder for your task.
 3. Create .py file.
@@ -27,4 +29,3 @@ pip install pywhatkey
   </tr>
   
   </table>
-
