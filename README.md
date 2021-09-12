@@ -5,6 +5,16 @@
 ```pip
 pip install pywhatkey
 ```
+- [PIL](https://pillow.readthedocs.io/en/stable/)
+
+```pip
+pip install Pillow
+```
+- [tkinter](https://docs.python.org/3/library/tkinter.html)
+
+```pip
+pip install tkinter
+```
 
 ## How to contribute
 
