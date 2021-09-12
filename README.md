@@ -15,6 +15,11 @@ pip install Pillow
 ```pip
 pip install tkinter
 ```
+- [opencv](https://opencv.org/)
+
+```pip
+pip install opencv-python
+```
 
 ## How to contribute
 
